@@ -1,4 +1,4 @@
-### Olá! me chamo Lorrane 👋
+### Olá! Me chamo Lorrane 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de Governança e Compliance na área de Qualidade
 - 🌱 Estudando Java, Phyton, CSS, HTML, SQL e Power BI.
