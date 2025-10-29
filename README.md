@@ -7,6 +7,7 @@
 ##### MINHAS REDES SOCIAIS:
 <div> 
   <a href="https://www.linkedin.com/in/lorrane-souza-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.duolingo.com/profile/LoloSR" target="_blank"><img src="https://img.shields.io/badge/-Duolingo-%230077B?style=for-the-badge&logo=duolingo&logoColor=white" target="_blank"></a> 
 </div>
 
 ## 😊 UM POUCO SOBRE MIM
