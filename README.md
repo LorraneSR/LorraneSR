@@ -9,8 +9,6 @@
   <a href="https://www.linkedin.com/in/lorrane-souza-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
 ## 😊 UM POUCO SOBRE MIM
 Tenho mais de 12 anos de atuação na TI, sendo 4 anos na equipe de Qualidade do MDS - Ministério do Desenvolvimento Social, atuando como Analista de Governança e Compliance. Sou pós graduada em LGPD - Lei Geral de Proteção de Dados pela faculdade Legale e bacharel em Sistemas de Informação pela faculdade UPIS.
 
