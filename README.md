@@ -35,6 +35,6 @@ Me considero uma profissional dedicada, responsável, observadora, paciente, que
 
 ### 📚 FORMAÇÃO
 * Pós-graduação (Lato Sensu) em LGPD - Lei Geral de Proteção de Dados com carga horária de 360h;
-* Bacharelado em Sistemas de Informação na Faculdade UPIS com carga horária de 3000h.
-* Curso Técnico em Informática no SENAC com carga horária de 1360h.
+* Bacharelado em Sistemas de Informação com carga horária de 3000h.
+* Curso Técnico em Informática com carga horária de 1360h.
 
