@@ -3,7 +3,10 @@
 - 🎯 Estou migrando para a área de QA/Qualidade/Testes de Software
 - 🌱 Estudando QA, Testes de Software, CTFL, Java, Phyton, SQL e Power BI
 - 💜 Estou reaprendendo a programar e aprendendo sobre QA e BI, pois quero me aventurar em novos caminhos e evoluir sempre
-- 📫 Meu LinkedIn é: https://www.linkedin.com/in/lorrane-souza-ribeiro/
+
+<div> 
+  <a href="https://www.linkedin.com/in/lorrane-souza-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 ### 😊 UM POUCO SOBRE MIM
