@@ -2,7 +2,7 @@
 
 - 🎯 Estou migrando para a área de QA/Qualidade/Testes de Software
 - 🌱 Estudando QA, Testes de Software, CTFL, Java, Phyton, SQL e Power BI
-- 💜 Estou reaprendendo, aprendendo, me desafiando e me aventurando em novos caminhos para evoluir sempre!
+- 💜  Estou aprendendo, reaprendendo, me desafiando e me aventurando em novos caminhos e desafios para evoluir sempre, pois na vida não existem sucessos e nem fracassos, existem resultados que podem te impulsionar a fazer o melhor cada vez mais!
 
 ##### MINHAS REDES SOCIAIS:
 <div> 
@@ -14,9 +14,9 @@
 </div>
 
 ## 😊 UM POUCO SOBRE MIM
-Tenho mais de 12 anos de atuação na TI, sendo 4 anos na equipe de Qualidade do MDS - Ministério do Desenvolvimento Social, atuando como Analista de Governança e Compliance. Sou pós graduada em LGPD - Lei Geral de Proteção de Dados pela faculdade Legale e bacharel em Sistemas de Informação pela faculdade UPIS.
+Tenho desbravado a TI a mais de 12 anos, sendo 4 anos na equipe de Qualidade do MDS - Ministério do Desenvolvimento Social. Sou pós-graduada em LGPD - Lei Geral de Proteção de Dados pela faculdade Legale e bacharel em Sistemas de Informação pela faculdade UPIS.
 
-Me considero uma profissional dedicada, responsável, observadora, paciente, que sabe trabalhar em equipe, gosta de ouvir, que possui boa comunicação e escrita, gosta de aprender coisas novas e principalmente repassar o meu conhecimento.
+Sou uma profissional dedicada, responsável, observadora, paciente, que sabe trabalhar em equipe, gosta de ouvir, que possui boa comunicação e escrita, gosta de aprender coisas novas e principalmente repassar o meu conhecimento.
 
 ## 🛠️ FERRAMENTAS / SISTEMAS QUE UTILIZEI ATUALMENTE:
 * Bizagi Modeler;
