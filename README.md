@@ -19,21 +19,39 @@ Tenho desbravado a TI a mais de 12 anos, sendo 4 anos na equipe de Qualidade do 
 Sou uma profissional dedicada, responsável, observadora, paciente, que sabe trabalhar em equipe, gosta de ouvir, que possui boa comunicação e escrita, gosta de aprender coisas novas e principalmente repassar o meu conhecimento.
 
 ## 🛠️ FERRAMENTAS / SISTEMAS QUE UTILIZEI ATUALMENTE:
-* Bizagi Modeler;
-* Canva;
-* Citsmart;
-* DBeaver;
-* Git, GitHub, GitLab CI/CD;
-* LimeSurvey;
-* Microsoft Office;
-* Microsoft Power BI;
-* Microsoft Teams;
-* Miro - RealtimeBoard;
-* Taiga - Project Management;
-* Trello;
-* VS Code - Visual Studio Code;
-* Wiki;
-* Xmind - Mind Mapping App.
+
+<div>
+  <table>
+    <tr>
+      <td>Bizagi Modeler</td>
+      <td>Canva</td>
+      <td>Citsmart</td>
+      <td>DBeaver</td>
+      <td>Git</td>
+    </tr>
+    <tr>
+      <td>GitHub</td>
+      <td>GitLab CI/CD</td>
+      <td>Java</td>
+      <td>LimeSurvey</td>
+      <td>Microsoft Office</td>
+    </tr>
+    <tr>
+      <td>Microsoft Power BI</td>
+      <td>Microsoft Teams</td>
+      <td>Miro - RealtimeBoard</td>
+      <td>Python</td>
+      <td>Taiga - Project Management</td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>Trello</td>
+      <td>VS Code - Visual Studio Code</td>
+      <td>Wiki</td>
+      <td>Xmind - Mind Mapping App</td>
+    </tr>
+  </table>
+</div>
 
 ## 👩‍💻 EXPERIÊNCIAS
 * Analista de Governança e Compliance;
