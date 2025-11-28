@@ -1,7 +1,7 @@
 # OLÁ! ME CHAMO LORRANE! 👋
 
-- 🎯 Estou migrando para a área de QA/Qualidade/Testes de Software
-- 🌱 Estudando QA, Testes de Software, CTFL, Java, Phyton, SQL e Power BI
+- 🎯 Sou Analista de QA e Testes, Requisitos e Negócios e Governança e Compliance de TI.
+- 🌱 Estudando QA, Testes de Software, CTFL, Java, Phyton, SQL, Power BI e Metodologias Ágeis.
 - 💜  Meu objetivo é: aprender, reaprender, me desafiar e me aventurar em novos caminhos para evoluir sempre, pois na vida não existem sucessos e nem fracassos, existem resultados que podem te impulsionar a fazer o melhor cada vez mais!
 
 ##### MINHAS REDES SOCIAIS:
@@ -17,7 +17,7 @@ Tenho desbravado a TI a mais de 12 anos, sendo 4 anos na equipe de Qualidade do 
 
 Sou uma profissional dedicada, paciente, organizada, responsável, observadora e determinada, que sabe trabalhar em equipe, sou uma boa ouvinte, possuo uma boa comunicação e escrita, gosto de aprender coisas novas e repassar o meu conhecimento.
 
-## 🛠️ FERRAMENTAS / SISTEMAS QUE UTILIZEI ATUALMENTE:
+## 🛠️ # METODOLOGIAS E SISTEMAS UTILIZADOS ATUALMENTE:
 
 <div>
   <table>
@@ -25,29 +25,41 @@ Sou uma profissional dedicada, paciente, organizada, responsável, observadora e
       <td>Bizagi Modeler</td>
       <td>Canva</td>
       <td>Citsmart</td>
+      <td>Confluence</td>
+      <td>Cypress</td>
       <td>DBeaver</td>
-      <td>Git</td>
     </tr>
     <tr>
+      <td>Excel</td>
+      <td>Git</td>
       <td>GitHub</td>
       <td>GitLab CI/CD</td>
       <td>Java</td>
-      <td>LimeSurvey</td>
-      <td>Microsoft Office</td>
+      <td>JavaScript</td>
     </tr>
     <tr>
-      <td>Microsoft Power BI</td>
-      <td>Microsoft Teams</td>
+      <td>Jira</td>
+      <td>Kanban</td>
+      <td>LimeSurvey</td>
+      <td>Markdown</td>
       <td>Miro - RealtimeBoard</td>
+      <td>Power BI</td>
+    </tr>
+    <tr>
+      <td>Powerpoint</td>
       <td>Python</td>
+      <td>SEI</td>
+      <td>SQL</td>
+      <td>Scrum</td>
       <td>Taiga - Project Management</td>
     </tr>
     <tr>
-      <td>SQL</td>
+      <td>Microsoft Teams</td>
       <td>Trello</td>
       <td>VS Code - Visual Studio Code</td>
-      <td>Wiki</td>
+      <td>Word</td>
       <td>Xmind - Mind Mapping App</td>
+      <td>XRay</td>
     </tr>
   </table>
 </div>
