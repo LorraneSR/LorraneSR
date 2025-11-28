@@ -17,7 +17,7 @@ Tenho desbravado a TI a mais de 12 anos, sendo 4 anos na equipe de Qualidade do 
 
 Sou uma profissional dedicada, paciente, organizada, responsável, observadora e determinada, que sabe trabalhar em equipe, sou uma boa ouvinte, possuo uma boa comunicação e escrita, gosto de aprender coisas novas e repassar o meu conhecimento.
 
-## 🛠️ # METODOLOGIAS E SISTEMAS UTILIZADOS ATUALMENTE:
+## 🛠️ METODOLOGIAS E SISTEMAS UTILIZADOS ATUALMENTE:
 
 <div>
   <table>
